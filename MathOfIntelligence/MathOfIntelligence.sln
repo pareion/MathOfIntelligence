@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MathOfIntelligence", "MathOfIntelligence\MathOfIntelligence.pyproj", "{EA86C35D-B8B3-4447-802D-BF17D64CEE08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA86C35D-B8B3-4447-802D-BF17D64CEE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA86C35D-B8B3-4447-802D-BF17D64CEE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E80921-ECB2-42E1-9E64-FFC5DF7A08DB}
+	EndGlobalSection
+EndGlobal
